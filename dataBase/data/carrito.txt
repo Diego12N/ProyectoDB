@@ -1,0 +1,1 @@
+[{"id":"f9ef52b1-f6b9-47ec-86e4-b3103eea51d0","timestamp":"2/7/2022","productos":["10a8baa8-0538-4934-98c1-c1f76c4b4d1d","8e652e67-078b-40e8-b6ba-a1671af50b18"]}]
